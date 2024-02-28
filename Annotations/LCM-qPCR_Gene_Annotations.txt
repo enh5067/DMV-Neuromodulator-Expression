@@ -1,0 +1,174 @@
+	Rationale	Gene	Ensemble.ID	Accession.number	Pathway	Classification
+Agt	Neuropeptide	Agt	ENSRNOG00000018445	NM_134432	Angiotensin	Neuropeptide Precursor
+Agtr1a	Receptor	Agtr1a	ENSRNOG00000018346	NM_030985	Angiotensin	Neuropeptide Receptors
+Agtr2	Receptor	Agtr2	ENSRNOG00000050006	NM_012494	Angiotensin	Neuropeptide Receptors
+Agtrap	Receptor	Agtrap	ENSRNOG00000008619	NM_001007654	Angiotensin	No_Annot
+Foxo3	Transcription Factor	Foxo3	ENSRNOG00000000299	NM_001106395	Transcription Factor	No_Annot
+Comt	Metabolism of neurotransmitter	Comt	ENSRNOG00000001889	NM_012531	Catecholaminergic	No_Annot
+Dbh	Neurotransmitter synthesis enzymes	Dbh	ENSRNOG00000006641	NM_013158	Catecholaminergic	Neurotransmitter Synthesis
+Pnmt	Neurotransmitter synthesis enzymes	Pnmt	ENSRNOG00000046057	NM_031526.1	Catecholaminergic	Neurotransmitter Synthesis
+Th	Neurotransmitter synthesis enzymes	Th	ENSRNOG00000020410	NM_012740	Catecholaminergic	Neurotransmitter Synthesis
+Grk2	Receptor	Grk2	ENSRNOG00000018985	NM_12776.1	Catecholaminergic	No_Annot
+Adra1a	Receptor	Adra1a	ENSRNOG00000009522	NM_017191	Catecholaminergic	Catecholamine Receptors
+Adra1b	Receptor	Adra1b	ENSRNOG00000060087	NM_016991	Catecholaminergic	Catecholamine Receptors
+Adra2a	Receptor	Adra2a	ENSRNOG00000047545	NM_012739.3	Catecholaminergic	Catecholamine Receptors
+Adrb1	Receptor	Adrb1	ENSRNOG00000017002	NM_012701	Catecholaminergic	Catecholamine Receptors
+Adrb2	Receptor	Adrb2	ENSRNOG00000019217	NM_012492	Catecholaminergic	Catecholamine Receptors
+Drd2	Receptor	Drd2	ENSRNOG00000008428	NM_012547	Catecholaminergic	Catecholamine Receptors
+Slc18a2	Transporter	Slc18a2	ENSRNOG00000008890	NM_013031.1 	Catecholaminergic	No_Annot
+E2f1	Transcription Factor	E2f1	ENSRNOG00000016708	NM_001100778	Transcription Factor	No_Annot
+Ache	Metabolism of neurotransmitter	Ache	ENSRNOG00000050841	NM_172009.1 	Cholinergic	No_Annot
+Chat	Neurotransmitter synthesis enzymes	Chat	ENSRNOG00000025012	NM_001170593	Cholinergic	Neurotransmitter Synthesis
+Chrm3	Receptor	Chrm3	ENSRNOG00000049410	NM_012527	Cholinergic	Cholinergic Receptors
+Chrna6	Receptor	Chrna6	ENSRNOG00000012283	NM_057184.1 	Cholinergic	Cholinergic Receptors
+Chrm4	Receptor	Chrm4	ENSRNOG00000017556	NM_031547	Cholinergic	Cholinergic Receptors
+Chrna4	Receptor	Chrna4	ENSRNOG00000011202	NM_024354.1	Cholinergic	Cholinergic Receptors
+Chrnb2	Receptor	Chrnb2	ENSRNOG00000020778	NM_019297.1	Cholinergic	Cholinergic Receptors
+Chrm2	Receptor	Chrm2	ENSRNOG00000046972	NM_031016	Cholinergic	Cholinergic Receptors
+Slc5a7	Transporter	Slc5a7	ENSRNOG00000010597	NM_053521.1	Cholinergic	No_Annot
+Gabra1	Receptor	Gabra1	ENSRNOG00000003512	NM_183326	GABAergic	GABAergic Receptors
+Gabra2	Receptor	Gabra2	ENSRNOG00000002349	NM_001135779.2	GABAergic	GABAergic Receptors
+Gabrb1	Receptor	Gabrb1	ENSRNOG00000002327	NM_012956	GABAergic	GABAergic Receptors
+Gabre	Receptor	Gabre	ENSRNOG00000061182	NM_023091	GABAergic	GABAergic Receptors
+Gabrg1	Receptor	Gabrg1	ENSRNOG00000002360	NM_080586.1 	GABAergic	GABAergic Receptors
+Gabrg2	Receptor	Gabrg2	ENSRNOG00000003241	NM_183327.1 	GABAergic	GABAergic Receptors
+Gabrq	Receptor	Gabrq	ENSRNOG00000053402	NM_031733	GABAergic	GABAergic Receptors
+Abat	Metabolism of neurotransmitter	Abat	ENSRNOG00000002636	NM_031003.2	GABAergic	No_Annot
+Gad2	Neurotransmitter synthesis enzymes	Gad2	ENSRNOG00000018200	NM_012563	GABAergic	Neurotransmitter Synthesis
+Creb1	Transcription Factor	Creb1	ENSRNOG00000013412	NM_031017	Transcription Factor	No_Annot
+Gria1	Receptor	Gria1	ENSRNOG00000045816	NM_031608.1 	Glutamatergic	Glutamatergic Receptors
+Grid2	Receptor	Grid2	ENSRNOG00000006174	NM_024379.1	Glutamatergic	Glutamatergic Receptors
+Grik5	Receptor	Grik5	ENSRNOG00000020310	NM_031508.2 	Glutamatergic	Glutamatergic Receptors
+Grin2a	Receptor	Grin2a	ENSRNOG00000033942	NM_012573	Glutamatergic	Glutamatergic Receptors
+Grm7	Receptor	Grm7	ENSRNOG00000005662	NM_031040.1 	Glutamatergic	Glutamatergic Receptors
+Glud1	Metabolism of neurotransmitter	Glud1	ENSRNOG00000057367	NM_012570.2 	Glutamatergic	No_Annot
+Gls	Neurotransmitter synthesis enzymes	Gls	ENSRNOG00000056246	NM_001109968.1 	Glutamatergic	Neurotransmitter Synthesis
+Grin3a	Receptor	Grin3a	ENSRNOG00000005723	NM_001198583.2 	Glutamatergic	Glutamatergic Receptors
+Slc17a6	Transporter	Slc17a6	ENSRNOG00000016147	NM_053427.1 	Glutamatergic	No_Annot
+Gldc	Metabolism of neurotransmitter	Gldc	ENSRNOG00000011599	NM_001107583.1	Glycinergic	No_Annot
+Shmt2	Neurotransmitter synthesis enzymes	Shmt2	ENSRNOG00000008106	NM_001008322.1	Glycinergic	Neurotransmitter Synthesis
+Glra1	Receptor	Glra1	ENSRNOG00000013588	NM_013133.1 	Glycinergic	Glycinergic Receptors
+Slc32a1	Transporter	Slc32a1	ENSRNOG00000015393	NM_031782.1	Glycinergic	No_Annot
+Fos	Transcription Factor	Fos	ENSRNOG00000008015	NM_022197	Transcription Factor	No_Annot
+Cacna1b	Gorky DEGs	Cacna1b	ENSRNOG00000004560	NM_147141	Ion channel	No_Annot
+Cacna1e	Gorky DEGs	Cacna1e	ENSRNOG00000002863	NM_019294	Ion channel	No_Annot
+Clcn5	Ion channel	Clcn5	ENSRNOG00000002862	NM_017106.1	Ion channel	No_Annot
+Hcn2	Ion channel	Hcn2	ENSRNOG00000008831	NM_053684	Ion channel	No_Annot
+Hcn3	Ion channel	Hcn3	ENSRNOG00000020444	NM_053685	Ion channel	No_Annot
+Kcnj3	Ion channel	Kcnj3	ENSRNOG00000005369	NM_031610	Ion channel	No_Annot
+Scn1a	Ion channel	Scn1a	ENSRNOG00000053122	NM_030875	Ion channel	No_Annot
+Scn9a	Ion channel	Scn9a	ENSRNOG00000006639	NM_133289.1	Ion channel	No_Annot
+Trpc6	Ion channel	Trpc6	ENSRNOG00000006324	NM_053559	Ion channel	No_Annot
+Trpm7	Ion channel	Trpm7	ENSRNOG00000057806	XM_001078325	Ion channel	No_Annot
+Trpv2	Ion channel	Trpv2	ENSRNOG00000003104	NM_001270797.1	Ion channel	No_Annot
+Scnn1a	Ion channel	Scnn1a	ENSRNOG00000019368	NM_031548.2	Ion channel	No_Annot
+Kctd8	Ion channel	Kctd8	RGD:1312020	NM_001100172.1 	Ion channel	No_Annot
+Kcnn4	Gorky DEGs	Kcnn4	ENSRNOG00000019440	NM_023021	Ion channel	No_Annot
+Slc41a3	Transporter	Slc41a3	ENSRNOG00000045821	NM_001037492.1	Transporter	No_Annot
+S100b	Marker (non-neuronal)	S100b	ENSRNOG00000001295	NM_013191.1 	Marker	No_Annot
+Kcna5	Marker (DMV-specific)	Kcna5	ENSRNOG00000019719	NM_012972.1 	Marker	No_Annot
+Chrna5	Marker (DMV-specific)	Chrna5	ENSRNOG00000013610	NM_017078.2	Marker	No_Annot
+Ddc	Neurotransmitter synthesis enzymes	Ddc	ENSRNOG00000004327	NM_001270852.1 	Marker	Serotonergic
+Calca	Marker (DMV-specific)	Calca	ENSRNOG00000011130	NM_017338	Marker	No_Annot
+Ccl5	Marker (non-neuronal)	Ccl5	ENSRNOG00000010906	NM_031116.3 	Marker	No_Annot
+Gfap	Marker (non-neuronal)	Gfap	ENSRNOG00000002919	NM_017009	Marker	No_Annot
+Emcn	Marker (non-neuronal)	Emcn	ENSRNOG00000022910	NM_001004228.1 	Marker	No_Annot
+Zmynd10	Marker (non-neuronal)	Zmynd10	ENSRNOG00000021602	NM_001004284.1 	Marker	No_Annot
+Cx3cr1	Marker (non-neuronal)	Cx3cr1	ENSRNOG00000018509	NM_133534.1 	Marker	No_Annot
+Acta2	Marker (non-neuronal)	Acta2	ENSRNOG00000058039	NM_031004.2 	Marker	No_Annot
+Snap25	Marker (neuronal)	Snap25	RGD:3728	NM_001270575.1 	Marker	No_Annot
+Map2	Marker (neuronal)	Map2	ENSRNOG00000011841	NM_013066	Marker	No_Annot
+Mbp	Marker (non-neuronal)	Mbp	Ensembl:ENSRNOG00000016516	NM_001025289.1 	Marker	No_Annot
+Tubb3	Marker (neuronal)	Tubb3	ENSRNOG00000017209	NM_139254.2	Marker	No_Annot
+Uchl1	Marker (neuronal)	Uchl1	ENSRNOG00000002343	NM_017237.3 	Marker	No_Annot
+Zgrf1	Marker (DMV-negative)	Zgrf1	ENSRNOG00000036980	XM_006233293.3 	Marker	No_Annot
+Actb	Reference gene	Actb	ENSRNOG00000034254	NM_031144	Marker	No_Annot
+Rpl19	Reference gene	Rpl19	ENSRNOG00000004741	NM_031103	Marker	No_Annot
+Apoe	Marker (non-neuronal)	Apoe	ENSRNOG00000018454	NM_001270681.1	Marker	No_Annot
+Rgs2	Metabolism	Rgs2	ENSRNOG00000003687	NM_053453	Metabolism	No_Annot
+Eno2	Metabolism	Eno2	ENSRNOG00000013141	NM_139325	Metabolism	No_Annot
+Ptgr1	Metabolism	Ptgr1	ENSRNOG00000015072	NM_138863	Metabolism	No_Annot
+Ldha	Metabolism	Ldha	ENSRNOG00000013009	NM_017025	Metabolism	No_Annot
+Ren	Metabolism	Ren	ENSRNOG00000002937	NM_012642	Metabolism	No_Annot
+Ptgs1	Metabolism	Ptgs1	ENSRNOG00000007415	NM_017043	Metabolism	No_Annot
+Ptgs2	Metabolism	Ptgs2	ENSRNOG00000002525	NM_017232	Metabolism	No_Annot
+Npff	Neuropeptide	Npff	ENSRNOG00000047739	NM_022586	Neuropeptide	Neuropeptide Precursor
+Nppc	Neuropeptide	Nppc	ENSRNOG00000018854	NM_053750	Neuropeptide	Neuropeptide Precursor
+Cck	Neuropeptide	Cck	ENSRNOG00000019321	NM_012829	Neuropeptide	Neuropeptide Precursor
+Crh	Neuropeptide	Crh	ENSRNOG00000012703	NM_031019	Neuropeptide	Neuropeptide Precursor
+Gal	Neuropeptide	Gal	ENSRNOG00000015156	NM_033237	Neuropeptide	Neuropeptide Precursor
+Nppa	Neuropeptide	Nppa	ENSRNOG00000008176	NM_012612	Neuropeptide	Neuropeptide Precursor
+Npy	Neuropeptide	Npy	ENSRNOG00000046449	NM_012614	Neuropeptide	Neuropeptide Precursor
+Oxt	Neuropeptide	Oxt	ENSRNOG00000021225	NM_012996	Neuropeptide	Neuropeptide Precursor
+Sst	Neuropeptide	Sst	ENSRNOG00000001837	NM_012659	Neuropeptide	Neuropeptide Precursor
+Tac1	Neuropeptide	Tac1	ENSRNOG00000007374	NM_001124768	Neuropeptide	Neuropeptide Precursor
+Galr1	Receptor	Galr1	ENSRNOG00000016654	NM_012958.3 	Neuropeptide	Neuropeptide Receptors
+Npffr2	Receptor	Npffr2	ENSRNOG00000003067	NM_023980	Neuropeptide	Neuropeptide Receptors
+Npr1	Receptor	Npr1	ENSRNOG00000014684	NM_012613	Neuropeptide	Neuropeptide Receptors
+Npr3	Receptor	Npr3	ENSRNOG00000019184	NM_012868	Neuropeptide	Neuropeptide Precursor
+Npy4r	Receptor	Npy4r	ENSRNOG00000061026	NM_031581.2	Neuropeptide	Neuropeptide Receptors
+Oxtr	Receptor	Oxtr	ENSRNOG00000005806	NM_012871	Neuropeptide	Neuropeptide Receptors
+Sstr1	Receptor	Sstr1	ENSRNOG00000048145	NM_012719	Neuropeptide	Neuropeptide Receptors
+Sstr5	Receptor	Sstr5	ENSRNOG00000018834	NM_012882	Neuropeptide	Neuropeptide Receptors
+Cckar	Receptor	Cckar	ENSRNOG00000043124	NM_012688	Neuropeptide	Neuropeptide Receptors
+Cckbr	Receptor	Cckbr	ENSRNOG00000017679	NM_013165	Neuropeptide	Neuropeptide Receptors
+Npy1r	Receptor	Npy1r	ENSRNOG00000014149	NM_001113357.1	Neuropeptide	Neuropeptide Receptors
+Crhr2	Receptor	Crhr2	ENSRNOG00000011145	NM_022714.1 	Neuropeptide	Neuropeptide Receptors
+Tacr1	Receptor	Tacr1	ENSRNOG00000005853	NM_012667	Neuropeptide	Neuropeptide Receptors
+Hcrt	Neuropeptide	Hcrt	ENSRNOG00000018892	NM_013179.2	Orexin	Neuropeptide Precursor
+Hcrtr1	Receptor	Hcrtr1	ENSRNOG00000013838	NM_013064	Orexin	Neuropeptide Receptors
+Hcrtr2	Receptor	Hcrtr2	ENSRNOG00000011251	NM_013074	Orexin	Neuropeptide Receptors
+Avp	Neuropeptide	Avp	ENSRNOG00000021229	NM_016992.2	Neuropeptide	Neuropeptide Precursor
+Fstl1	Neuropeptide	Fstl1	ENSRNOG00000002746	NM_024369	Neuropeptide	Neuropeptide Precursor
+Pyy	Neuropeptide	Pyy	ENSRNOG00000020877	NM_001034080	Neuropeptide	Neuropeptide Precursor
+Selp	Neuropeptide	Selp	ENSRNOG00000002794	NM_013114.1	Neuropeptide	Neuropeptide Precursor
+Cartpt	Neuropeptide	Cartpt	ENSRNOG00000017712	NM_017110	Neuropeptide	Neuropeptide Precursor
+Nts	Neuropeptide	Nts	ENSRNOG00000004179	NM_001102381.1	Neuropeptide	Neuropeptide Precursor
+Vip	Neuropeptide	Vip	ENSRNOG00000018808	NM_053991	Neuropeptide	Neuropeptide Precursor
+Adcyap1	Neuropeptide	Adcyap1	ENSRNOG00000049882	NM_016989.2 	Neuropeptide	Neuropeptide Precursor
+Nrg1	Neuropeptide	Nrg1	ENSRNOG00000010392	NM_001271118.1 	Neuropeptide	Neuropeptide Precursor
+Slc4a2	Transporter	Slc4a2	ENSRNOG00000014347	NM_017048.2 	Transporter	No_Annot
+Calcrl	Receptor	Calcrl	ENSRNOG00000054695	NM_012717	Calcium	No_Annot
+Camk2a	Receptor	Camk2a	ENSRNOG00000018712	NM_012320.1	Calcium	No_Annot
+Ramp1	Receptor	Ramp1	ENSRNOG00000019926	NM_031645	Calcium	No_Annot
+Ryr2	Receptor	Ryr2	ENSRNOG00000017060	NM_001191043.1 	Calcium	No_Annot
+Hrh1	Receptor	Hrh1	ENSRNOG00000007420	NM_017018	Histaminergic	Histamine Receptors
+Hrh3	Receptor	Hrh3	ENSRNOG00000061153	NM_053506	Histaminergic	Histamine Receptors
+Il10ra	Receptor	Il10ra	ENSRNOG00000016308	NM_057193.2	Inflammation	No_Annot
+Il1r1	Receptor	Il1r1	ENSRNOG00000014504	NM_013123.3	Inflammation	No_Annot
+Il6r	Receptor	Il6r	ENSRNOG00000020811	NM_017020.3	Inflammation	Inflammatory Receptors
+Ltb4r	Receptor	Ltb4r	ENSRNOG00000020399	NM_021656.1 	Inflammation	Inflammatory Receptors
+Ptger3	Receptor	Ptger3	ENSRNOG00000010325	NM_012704.1	Inflammation	Inflammatory Receptors
+Tnfrsf1a	Receptor	Tnfrsf1a	ENSRNOG00000031312	NM_013091	Inflammation	Inflammatory Receptors
+Ghrl	Neuropeptide	Ghrl	ENSRNOG00000010349	NM_021669.2 	Neuropeptide	Neuropeptide Precursor
+Grpr	Receptor	Grpr	ENSRNOG00000004124	NM_012706	Neuropeptide	Neuropeptide Receptors
+Nmbr	Receptor	Nmbr	ENSRNOG00000012103	NM_012799	Neuropeptide	Neuropeptide Receptors
+Sctr	Receptor	Sctr	ENSRNOG00000049766	NM_031115	Neuropeptide	Neuropeptide Receptors
+Brs3	Receptor	Brs3	ENSRNOG00000000873	NM_152845	Neuropeptide	Neuropeptide Receptors
+Ghsr	Receptor	Ghsr	ENSRNOG00000024119	NM_032075	Neuropeptide	Neuropeptide Receptors
+Lepr	Receptor	Lepr	ENSRNOG00000023664	NM_012596	Neuropeptide	Neuropeptide Receptors
+P2rx4	Receptor	P2rx4	ENSRNOG00000001300	NM_031594.1 	Neuropeptide	Neuropeptide Receptors
+Trhr	Receptor	Trhr	ENSRNOG00000005048	NM_013047.3	Neuropeptide	Neuropeptide Receptors
+Vdr	Receptor	Vdr	ENSRNOG00000054420	NM_017058.1	Neuropeptide	Neuropeptide Receptors
+Oprd1	Receptor	Oprd1	ENSRNOG00000010531	NM_012617	Opiod	Opiod Receptors
+Oprm1	Receptor	Oprm1	ENSRNOG00000018191	NM_001038597.2	Opiod	Opiod Receptors
+Htr2a	Receptor	Htr2a	ENSRNOG00000010063	NM_017254	Serotonergic	Serotonergic
+Htr5a	Receptor	Htr5a	ENSRNOG00000007066	NM_013148.1 	Serotonergic	Serotonergic
+Htr1a	Receptor	Htr1a	ENSRNOG00000010254	NM_012585	Serotonergic	Serotonergic
+Htr1b	Receptor	Htr1b	ENSRNOG00000013042	NM_022225	Serotonergic	Serotonergic
+Htr2c	Receptor	Htr2c	ENSRNOG00000030877	NM_012765	Serotonergic	Serotonergic
+Ar	Receptor	Ar	ENSRNOG00000005639	NM_012502	Sex Hormones	Sex Hormone Receptors
+Esr2	Receptor	Esr2	ENSRNOG00000005343	NM_012754	Sex Hormones	Sex Hormone Receptors
+Cxcr4	Receptor	Cxcr4	ENSRNOG00000003866	NM_022205	Inflammation	Inflammatory Receptors
+Glp1r	Receptor	Glp1r	ENSRNOG00000001152	NM_012728	Neuropeptide	Neuropeptide Receptors
+Atf6	Transcription Factor	Atf6	ENSRNOG00000024632	NM_001107196.1	Transcription Factor	Inflammatory Receptors
+Gata-1	Transcription Factor	Gata-1	ENSRNOG00000047663	NM_012764.1 	Transcription Factor	Inflammatory Receptors
+Hic1	Transcription Factor	Hic1	ENSRNOG00000046405	NM_001107021	Transcription Factor	No_Annot
+Jun	Transcription Factor	Jun	ENSRNOG00000026293	NM_021835	Transcription Factor	No_Annot
+Mef2a	Transcription Factor	Mef2a	ENSRNOG00000047756	NM_001014035.1	Transcription Factor	No_Annot
+Nkx2-5	Transcription Factor	Nkx2-5	ENSRNOG00000020747	NM_053651	Transcription Factor	No_Annot
+N-Myc	Transcription Factor	N-Myc	:ENSRNOG00000051372	NM_001013096.1 	Transcription Factor	No_Annot
+Pparg	Transcription Factor	Pparg	ENSRNOG00000008839	NM_013124	Transcription Factor	No_Annot
+Srebf1	Transcription Factor	Srebf1	ENSRNOG00000003463	XM_213329	Transcription Factor	No_Annot
+Mapk14	Transcription Factor	Mapk14	ENSRNOG00000000513	NM_031020	Transcription Factor	No_Annot
+Stat6	Transcription Factor	Stat6	ENSRNOG00000025023	NM_001044250.1	Transcription Factor	No_Annot
