@@ -9,9 +9,13 @@ This repository contains 6 files.
 •	ReplicateFigures_Supplemental.R—R script for replicating the supplemental figures present in the manuscript.
 
 •	Annotations—folder containing all annotation files necessary to replicate the figures.
+  
   o	10xsc-Sample_Annotations.txt—sample annotations for the 10x genomics single cell RNAseq data stored in 10xsc_SeuratObject.rds.
+  
   o	LCM-qPCR_Gene_Annotations.txt—gene annotations for the HT-qPCR data, LCM-qPCR_Negddct.txt.
+  
   o	LCM-qPCR_Sample_Annotations.txt—sample annotations for the HT-qPCR data, LCM-qPCR_Negddct.txt.
+  
   o	LCMseq-Sample_Annotations.txt—sample annotations for the LCM-RNAseq data stored in LCMseq_SeuratObject.rds.
 
 
