@@ -10,12 +10,12 @@ This repository contains all the code and data needed to reproduce the results o
 
 ### Annotations—folder containing all annotation files necessary to replicate the figures.
   
-•	10xsc-Sample_Annotations.txt—sample annotations for the 10x genomics single cell RNAseq data stored in 10xsc_SeuratObject.rds.
+•	10xsc-Sample_Annotations.txt—sample annotations for the 10x genomics single cell RNA-seq data.
   
-•	LCM-qPCR_Gene_Annotations.txt—gene annotations for the HT-qPCR data, LCM-qPCR_Negddct.txt.
+•	LCM-qPCR_Gene_Annotations.txt—gene annotations for the single cell HT-qPCR data obtained by laser capture microdissection (LCM).
   
-•	LCM-qPCR_Sample_Annotations.txt—sample annotations for the HT-qPCR data, LCM-qPCR_Negddct.txt.
+•	LCM-qPCR_Sample_Annotations.txt—sample annotations for the single cell HT-qPCR data obtained by LCM.
   
-•	LCMseq-Sample_Annotations.txt—sample annotations for the LCM-RNAseq data stored in LCMseq_SeuratObject.rds.
+•	LCMseq-Sample_Annotations.txt—sample annotations for the single cell RNA-seq data obtained by LCM.
 
 
