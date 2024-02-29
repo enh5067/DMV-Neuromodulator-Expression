@@ -3,7 +3,7 @@ This repository contains all the code and data needed to reproduce the results o
 
 ## This repository contains 6 files.
 
--ReplicateFigures.R—R script for replicating the main figures present in the manuscript, including visualizing Visium sections colored according to spatial transcriptomic phenotype, uniform manifold approximation and projection (UMAP) plots, raw spatial transcriptomic 
+  -ReplicateFigures.R—R script for replicating the main figures present in the manuscript, including visualizing Visium sections colored according to spatial transcriptomic phenotype, uniform manifold approximation and projection (UMAP) plots, raw spatial transcriptomic 
   gene expression counts shown in the context of the tissue, kernel density estimates of mean protein intensity level, bar plots of proportions of neurons, as well as violin plots, heat maps, boxplots, and scatterplots of relative expression.
 
 •	ReplicateFigures_Supplemental.R—R script for replicating the supplemental figures present in the manuscript.
