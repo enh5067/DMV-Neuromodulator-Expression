@@ -8,7 +8,7 @@ This repository contains all the code and data needed to reproduce the results o
 
 •	ReplicateFigures_Supplemental.R—R script for replicating the supplemental figures present in the manuscript.
 
-### •	Annotations—folder containing all annotation files necessary to replicate the figures.
+### Annotations—folder containing all annotation files necessary to replicate the figures.
   
 •	10xsc-Sample_Annotations.txt—sample annotations for the 10x genomics single cell RNAseq data stored in 10xsc_SeuratObject.rds.
   
